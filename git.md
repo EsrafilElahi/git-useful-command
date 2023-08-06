@@ -6,7 +6,7 @@ git restore .
 </p>
 
 ---
-
+ 
 ```BASH
 git reset --hard <hash>
 ```
